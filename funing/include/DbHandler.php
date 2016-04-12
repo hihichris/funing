@@ -6,6 +6,7 @@
  *
  * @author Ravi Tamada
  * @link URL Tutorial link
+ * Updated the DBhandler
  */
 class DbHandler {
 
